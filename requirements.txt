@@ -1,0 +1,6 @@
+tweepy==3.8.0
+requests==2.20.1
+PyExecJS==1.5.1
+discord.py==1.4.1
+discord_webhook==0.13.0
+discord==1.0.1
